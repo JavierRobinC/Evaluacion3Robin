@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion3Web", "Evaluacion3Web\Evaluacion3Web.csproj", "{393857CB-1387-486B-B6CD-C28C28B9C24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion3Modelo", "Evaluacion3Modelo\Evaluacion3Modelo.csproj", "{641D22F3-0440-4B9E-B556-1F08FDE6D6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393857CB-1387-486B-B6CD-C28C28B9C24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393857CB-1387-486B-B6CD-C28C28B9C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393857CB-1387-486B-B6CD-C28C28B9C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393857CB-1387-486B-B6CD-C28C28B9C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641D22F3-0440-4B9E-B556-1F08FDE6D6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641D22F3-0440-4B9E-B556-1F08FDE6D6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641D22F3-0440-4B9E-B556-1F08FDE6D6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641D22F3-0440-4B9E-B556-1F08FDE6D6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FCFFA4-CD0F-45AB-A755-B7FEA85693D9}
+	EndGlobalSection
+EndGlobal
