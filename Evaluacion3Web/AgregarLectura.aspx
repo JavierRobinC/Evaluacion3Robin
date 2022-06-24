@@ -7,7 +7,7 @@
             <asp:Label runat="server" ID="mensajeLb1" CssClass="text-success"></asp:Label>
         </div>
         <div class="card">
-            <div class="card-header bg-info text-white">
+            <div class="card-header bg-secondary text-white">
                 <h3>Agregar Lectura</h3>
             </div>
             <div class="card-body">
